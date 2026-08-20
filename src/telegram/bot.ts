@@ -157,7 +157,7 @@ export function createTelegramBot(): Bot {
     text += `🎮 <b>Tổng số game đã claim thành công:</b> ${totalClaimed}\n`;
     text += `   • 🟣 Epic Games: ${epicCount}\n`;
     text += `   • 🔵 Steam: ${steamCount}\n`;
-    text += `⚙️ <b>Chế độ kiểm tra:</b> 2 lần/ngày (09:00 & 21:00 VN)`;
+    text += `⚙️ <b>Chế độ kiểm tra:</b> 2 lần/ngày (09:59 Sáng & 21:59 Tối VN)`;
 
     await ctx.reply(text, { parse_mode: 'HTML' });
   });
