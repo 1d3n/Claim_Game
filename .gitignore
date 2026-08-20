@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+*.log
+.playwright/
+data/claimed-games.json
+!.gitkeep

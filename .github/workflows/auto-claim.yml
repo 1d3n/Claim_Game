@@ -1,0 +1,50 @@
+name: 🎮 Free Game Auto Claimer
+
+on:
+  schedule:
+    # Chạy 2 lần/ngày: 09:00 VN (02:00 UTC) & 21:00 VN (14:00 UTC)
+    - cron: '0 2 * * *'
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [manual_claim_trigger]
+
+jobs:
+  claim:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright Chromium
+        run: npx playwright install chromium --with-deps
+
+      - name: Run Auto Claimer Engine
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          EPIC_EMAIL: ${{ secrets.EPIC_EMAIL }}
+          EPIC_PASSWORD: ${{ secrets.EPIC_PASSWORD }}
+          STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
+          STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
+        run: npm start
+
+      - name: Commit updated claimed-games database
+        run: |
+          git config user.name "FreeGameBot"
+          git config user.email "bot@github.com"
+          git add data/claimed-games.json
+          git diff --staged --quiet || (git commit -m "🎮 Update claimed games database" && git push)
