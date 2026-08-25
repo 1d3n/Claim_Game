@@ -4,7 +4,7 @@
       "id": "epic_b467b7d3570e44c0b84e59475f4a5636",
       "title": "Cardpocalypse Standard Edition",
       "platform": "epic",
-      "claimedAt": "2026-08-20T23:35:17.959Z",
+      "claimedAt": "2026-08-25T10:08:46.937Z",
       "status": "manual_required",
       "originalPrice": "$24.99",
       "url": "https://store.epicgames.com/p/cardpocalypse/home"
@@ -13,11 +13,56 @@
       "id": "epic_a802acab90af4a07952a07a9fa677f2f",
       "title": "Epic Mage Bundle",
       "platform": "epic",
-      "claimedAt": "2026-08-20T23:35:17.960Z",
+      "claimedAt": "2026-08-25T10:08:46.949Z",
       "status": "manual_required",
       "originalPrice": "0",
       "url": "https://store.epicgames.com/p/epic-mage-bundle"
+    },
+    {
+      "id": "gp_3756",
+      "title": "Dokimon Quest (Steam) Giveaway",
+      "platform": "steam",
+      "claimedAt": "2026-08-25T10:08:46.950Z",
+      "status": "failed",
+      "originalPrice": "$14.99",
+      "url": "https://www.gamerpower.com/open/dokimon-quest-steam-giveaway"
+    },
+    {
+      "id": "gp_3754",
+      "title": "Bolmn (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-08-25T10:08:46.950Z",
+      "status": "manual_required",
+      "originalPrice": "$0.99",
+      "url": "https://www.gamerpower.com/open/bolmn-epic-games-giveaway"
+    },
+    {
+      "id": "gp_3752",
+      "title": "Cardpocalypse (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-08-25T10:08:46.950Z",
+      "status": "manual_required",
+      "originalPrice": "$24.99",
+      "url": "https://www.gamerpower.com/open/cardpocalypse-epic-games-giveaway"
+    },
+    {
+      "id": "gp_3742",
+      "title": "Targeted – 10 Days (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-08-25T10:08:46.950Z",
+      "status": "manual_required",
+      "originalPrice": "$4.99",
+      "url": "https://www.gamerpower.com/open/targeted-10-days-epic-games-giveaway"
+    },
+    {
+      "id": "gp_3716",
+      "title": "Dwarven Realms (Steam) Key Giveaway",
+      "platform": "steam",
+      "claimedAt": "2026-08-25T10:08:46.950Z",
+      "status": "failed",
+      "originalPrice": "$9.99",
+      "url": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
     }
   ],
-  "lastCheckTime": "2026-08-20T23:35:17.961Z"
+  "lastCheckTime": "2026-08-25T10:08:46.951Z"
 }
