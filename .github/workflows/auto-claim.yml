@@ -2,9 +2,9 @@ name: 🎮 Free Game Auto Claimer
 
 on:
   schedule:
-    # Chạy 2 lần/ngày lúc 09:59 Sáng VN (02:59 UTC) & 21:59 Tối VN (14:59 UTC)
-    - cron: '59 2 * * *'
-    - cron: '59 14 * * *'
+    # Chạy 2 lần/ngày: 09:00 VN (02:00 UTC) & 21:00 VN (14:00 UTC)
+    - cron: '0 2 * * *'
+    - cron: '0 14 * * *'
   workflow_dispatch:
   repository_dispatch:
     types: [manual_claim_trigger]
@@ -46,5 +46,5 @@ jobs:
         run: |
           git config user.name "FreeGameBot"
           git config user.email "bot@github.com"
-          git add data/claimed-games.json
+          git add -f data/claimed-games.json
           git diff --staged --quiet || (git commit -m "🎮 Update claimed games database" && git push)

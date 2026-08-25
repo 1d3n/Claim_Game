@@ -1,0 +1,23 @@
+{
+  "claimedGames": [
+    {
+      "id": "epic_b467b7d3570e44c0b84e59475f4a5636",
+      "title": "Cardpocalypse Standard Edition",
+      "platform": "epic",
+      "claimedAt": "2026-08-20T23:35:17.959Z",
+      "status": "manual_required",
+      "originalPrice": "$24.99",
+      "url": "https://store.epicgames.com/p/cardpocalypse/home"
+    },
+    {
+      "id": "epic_a802acab90af4a07952a07a9fa677f2f",
+      "title": "Epic Mage Bundle",
+      "platform": "epic",
+      "claimedAt": "2026-08-20T23:35:17.960Z",
+      "status": "manual_required",
+      "originalPrice": "0",
+      "url": "https://store.epicgames.com/p/epic-mage-bundle"
+    }
+  ],
+  "lastCheckTime": "2026-08-20T23:35:17.961Z"
+}
