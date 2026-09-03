@@ -58,7 +58,7 @@
       "id": "gp_3716",
       "title": "Dwarven Realms (Steam) Key Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-09-03T07:04:58.956Z",
+      "claimedAt": "2026-09-03T17:41:32.221Z",
       "status": "failed",
       "originalPrice": "$9.99",
       "url": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -112,11 +112,29 @@
       "id": "gp_3709",
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
       "platform": "epic",
-      "claimedAt": "2026-09-03T07:04:58.955Z",
+      "claimedAt": "2026-09-03T17:41:32.221Z",
       "status": "manual_required",
       "originalPrice": "$2.99",
       "url": "https://www.gamerpower.com/open/norush-tower-edition-epic-games-giveaways"
+    },
+    {
+      "id": "epic_b8cc76ce7d6645f0a282b843a072cc78",
+      "title": "Alone With You",
+      "platform": "epic",
+      "claimedAt": "2026-09-03T17:41:32.207Z",
+      "status": "manual_required",
+      "originalPrice": "$9.99",
+      "url": "https://store.epicgames.com/p/68a0e4e0a68d42ffba405593a89c55ba"
+    },
+    {
+      "id": "gp_3763",
+      "title": "Alone With You (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-09-03T17:41:32.220Z",
+      "status": "manual_required",
+      "originalPrice": "$9.99",
+      "url": "https://www.gamerpower.com/open/alone-with-you-epic-games-giveaway"
     }
   ],
-  "lastCheckTime": "2026-09-03T07:04:58.956Z"
+  "lastCheckTime": "2026-09-03T17:41:32.222Z"
 }
