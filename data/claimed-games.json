@@ -58,7 +58,7 @@
       "id": "gp_3716",
       "title": "Dwarven Realms (Steam) Key Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-09-10T07:15:08.459Z",
+      "claimedAt": "2026-09-10T17:35:39.081Z",
       "status": "failed",
       "originalPrice": "$9.99",
       "url": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -170,7 +170,43 @@
       "status": "failed",
       "originalPrice": "$14.99",
       "url": "https://www.gamerpower.com/open/doomspire-steam-key-giveaway"
+    },
+    {
+      "id": "epic_c76046dddcdb43619c33ce0395941033",
+      "title": "Luftrausers",
+      "platform": "epic",
+      "claimedAt": "2026-09-10T17:35:39.066Z",
+      "status": "manual_required",
+      "originalPrice": "$9.99",
+      "url": "https://store.epicgames.com/p/luftrausers"
+    },
+    {
+      "id": "epic_e9bb092228f544c582e2c9395fae96f3",
+      "title": "Astral Ascent",
+      "platform": "epic",
+      "claimedAt": "2026-09-10T17:35:39.080Z",
+      "status": "manual_required",
+      "originalPrice": "$24.99",
+      "url": "https://store.epicgames.com/p/d72ccf025e574bb4a725e3079ea34081"
+    },
+    {
+      "id": "gp_3774",
+      "title": "Astral Ascent (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-09-10T17:35:39.080Z",
+      "status": "manual_required",
+      "originalPrice": "$24.99",
+      "url": "https://www.gamerpower.com/open/astral-ascent-epic-games-giveaway"
+    },
+    {
+      "id": "gp_3773",
+      "title": "Luftrausers (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-09-10T17:35:39.081Z",
+      "status": "manual_required",
+      "originalPrice": "$9.99",
+      "url": "https://www.gamerpower.com/open/luftrausers-epic-games-giveaway"
     }
   ],
-  "lastCheckTime": "2026-09-10T07:15:08.459Z"
+  "lastCheckTime": "2026-09-10T17:35:39.081Z"
 }
