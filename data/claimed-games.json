@@ -58,7 +58,7 @@
       "id": "gp_3716",
       "title": "Dwarven Realms (Steam) Key Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-09-17T07:28:23.057Z",
+      "claimedAt": "2026-09-17T18:03:04.778Z",
       "status": "failed",
       "originalPrice": "$9.99",
       "url": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -211,7 +211,7 @@
       "id": "gp_3776",
       "title": "Crystal Crisis (Steam) Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-09-17T07:28:23.056Z",
+      "claimedAt": "2026-09-17T18:03:04.777Z",
       "status": "failed",
       "originalPrice": "$19.99",
       "url": "https://www.gamerpower.com/open/crystal-crisis-steam-giveaway"
@@ -220,11 +220,47 @@
       "id": "gp_3779",
       "title": "Space Menace (Steam) Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-09-17T07:28:23.055Z",
+      "claimedAt": "2026-09-17T18:03:04.777Z",
       "status": "failed",
       "originalPrice": "$6.99",
       "url": "https://www.gamerpower.com/open/space-menace-steam-giveaway"
+    },
+    {
+      "id": "epic_8a20c6c8d5b5417e800c687e9d72013e",
+      "title": "Mindcop",
+      "platform": "epic",
+      "claimedAt": "2026-09-17T18:03:04.761Z",
+      "status": "manual_required",
+      "originalPrice": "$14.99",
+      "url": "https://store.epicgames.com/p/1513de80f23f42e584540be749826057"
+    },
+    {
+      "id": "epic_b9ff3f98367a45cdac289dff6683a2bc",
+      "title": "Shogun Showdown",
+      "platform": "epic",
+      "claimedAt": "2026-09-17T18:03:04.775Z",
+      "status": "manual_required",
+      "originalPrice": "$14.99",
+      "url": "https://store.epicgames.com/p/shogun-showdown"
+    },
+    {
+      "id": "gp_3782",
+      "title": "Shogun Showdown (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-09-17T18:03:04.776Z",
+      "status": "manual_required",
+      "originalPrice": "$14.99",
+      "url": "https://www.gamerpower.com/open/shogun-showdown-epic-games-giveaway"
+    },
+    {
+      "id": "gp_3781",
+      "title": "Mindcop (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-09-17T18:03:04.776Z",
+      "status": "manual_required",
+      "originalPrice": "$14.99",
+      "url": "https://www.gamerpower.com/open/mindcop-epic-games-giveaway"
     }
   ],
-  "lastCheckTime": "2026-09-17T07:28:23.057Z"
+  "lastCheckTime": "2026-09-17T18:03:04.778Z"
 }
