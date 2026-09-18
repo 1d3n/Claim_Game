@@ -58,7 +58,7 @@
       "id": "gp_3716",
       "title": "Dwarven Realms (Steam) Key Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-09-18T07:17:19.308Z",
+      "claimedAt": "2026-09-18T17:36:05.864Z",
       "status": "failed",
       "originalPrice": "$9.99",
       "url": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -211,7 +211,7 @@
       "id": "gp_3776",
       "title": "Crystal Crisis (Steam) Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-09-18T07:17:19.307Z",
+      "claimedAt": "2026-09-18T17:36:05.864Z",
       "status": "failed",
       "originalPrice": "$19.99",
       "url": "https://www.gamerpower.com/open/crystal-crisis-steam-giveaway"
@@ -220,7 +220,7 @@
       "id": "gp_3779",
       "title": "Space Menace (Steam) Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-09-18T07:17:19.307Z",
+      "claimedAt": "2026-09-18T17:36:05.863Z",
       "status": "failed",
       "originalPrice": "$6.99",
       "url": "https://www.gamerpower.com/open/space-menace-steam-giveaway"
@@ -229,7 +229,7 @@
       "id": "epic_8a20c6c8d5b5417e800c687e9d72013e",
       "title": "Mindcop",
       "platform": "epic",
-      "claimedAt": "2026-09-18T07:17:19.292Z",
+      "claimedAt": "2026-09-18T17:36:05.847Z",
       "status": "manual_required",
       "originalPrice": "$14.99",
       "url": "https://store.epicgames.com/p/1513de80f23f42e584540be749826057"
@@ -238,7 +238,7 @@
       "id": "epic_b9ff3f98367a45cdac289dff6683a2bc",
       "title": "Shogun Showdown",
       "platform": "epic",
-      "claimedAt": "2026-09-18T07:17:19.305Z",
+      "claimedAt": "2026-09-18T17:36:05.861Z",
       "status": "manual_required",
       "originalPrice": "$14.99",
       "url": "https://store.epicgames.com/p/shogun-showdown"
@@ -247,7 +247,7 @@
       "id": "gp_3782",
       "title": "Shogun Showdown (Epic Games) Giveaway",
       "platform": "epic",
-      "claimedAt": "2026-09-18T07:17:19.306Z",
+      "claimedAt": "2026-09-18T17:36:05.862Z",
       "status": "manual_required",
       "originalPrice": "$14.99",
       "url": "https://www.gamerpower.com/open/shogun-showdown-epic-games-giveaway"
@@ -256,11 +256,20 @@
       "id": "gp_3781",
       "title": "Mindcop (Epic Games) Giveaway",
       "platform": "epic",
-      "claimedAt": "2026-09-18T07:17:19.306Z",
+      "claimedAt": "2026-09-18T17:36:05.863Z",
       "status": "manual_required",
       "originalPrice": "$14.99",
       "url": "https://www.gamerpower.com/open/mindcop-epic-games-giveaway"
+    },
+    {
+      "id": "gp_3784",
+      "title": "Deadshot (Steam) Giveaway",
+      "platform": "steam",
+      "claimedAt": "2026-09-18T17:36:05.862Z",
+      "status": "failed",
+      "originalPrice": "$4.99",
+      "url": "https://www.gamerpower.com/open/deadshot-steam-giveaway"
     }
   ],
-  "lastCheckTime": "2026-09-18T07:17:19.308Z"
+  "lastCheckTime": "2026-09-18T17:36:05.864Z"
 }
