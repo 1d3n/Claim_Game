@@ -58,7 +58,7 @@
       "id": "gp_3716",
       "title": "Dwarven Realms (Steam) Key Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-10-24T17:16:42.838Z",
+      "claimedAt": "2026-10-25T07:29:29.752Z",
       "status": "failed",
       "originalPrice": "$9.99",
       "url": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -454,7 +454,7 @@
       "id": "gp_3820",
       "title": "GetHigh.EXE (Epic Games) Giveaway",
       "platform": "epic",
-      "claimedAt": "2026-10-24T17:16:42.837Z",
+      "claimedAt": "2026-10-25T07:29:29.751Z",
       "status": "manual_required",
       "originalPrice": "$1.99",
       "url": "https://www.gamerpower.com/open/gethigh-exe-epic-games-giveaway"
@@ -463,7 +463,7 @@
       "id": "gp_3822",
       "title": "Terraspace (Epic Games) Giveaway",
       "platform": "epic",
-      "claimedAt": "2026-10-24T17:16:42.837Z",
+      "claimedAt": "2026-10-25T07:29:29.751Z",
       "status": "manual_required",
       "originalPrice": "$7.99",
       "url": "https://www.gamerpower.com/open/terraspace-epic-games-giveaway"
@@ -472,7 +472,7 @@
       "id": "epic_6aab3ddef4f84fbc9dd81c60f9d8549c",
       "title": "Sker Ritual",
       "platform": "epic",
-      "claimedAt": "2026-10-24T17:16:42.820Z",
+      "claimedAt": "2026-10-25T07:29:29.739Z",
       "status": "manual_required",
       "originalPrice": "$24.99",
       "url": "https://store.epicgames.com/p/8dbc8d70481d4c0b8412d3aec76a35a1"
@@ -481,7 +481,7 @@
       "id": "epic_06190191cede42afb633fe89ef08c27e",
       "title": "Home - A Unique Horror Adventure",
       "platform": "epic",
-      "claimedAt": "2026-10-24T17:16:42.834Z",
+      "claimedAt": "2026-10-25T07:29:29.749Z",
       "status": "manual_required",
       "originalPrice": "$4.99",
       "url": "https://store.epicgames.com/p/ff70f2b02fd842f8961f7729af25cda9"
@@ -490,7 +490,7 @@
       "id": "gp_3824",
       "title": "Sker Ritual (Epic Games) Giveaway",
       "platform": "epic",
-      "claimedAt": "2026-10-24T17:16:42.835Z",
+      "claimedAt": "2026-10-25T07:29:29.750Z",
       "status": "manual_required",
       "originalPrice": "$19.99",
       "url": "https://www.gamerpower.com/open/sker-ritual"
@@ -499,11 +499,20 @@
       "id": "gp_3823",
       "title": "Home (Epic Games) Giveaway",
       "platform": "epic",
-      "claimedAt": "2026-10-24T17:16:42.836Z",
+      "claimedAt": "2026-10-25T07:29:29.750Z",
       "status": "manual_required",
       "originalPrice": "$4.99",
       "url": "https://www.gamerpower.com/open/home"
+    },
+    {
+      "id": "gp_3825",
+      "title": "MAFIA HOTEL (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-10-25T07:29:29.749Z",
+      "status": "manual_required",
+      "originalPrice": "$1.99",
+      "url": "https://www.gamerpower.com/open/mafia-hotel-epic-games-giveaway"
     }
   ],
-  "lastCheckTime": "2026-10-24T17:16:42.838Z"
+  "lastCheckTime": "2026-10-25T07:29:29.752Z"
 }
