@@ -58,7 +58,7 @@
       "id": "gp_3716",
       "title": "Dwarven Realms (Steam) Key Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-10-31T18:22:42.111Z",
+      "claimedAt": "2026-11-01T08:59:25.593Z",
       "status": "failed",
       "originalPrice": "$9.99",
       "url": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -454,7 +454,7 @@
       "id": "gp_3820",
       "title": "GetHigh.EXE (Epic Games) Giveaway",
       "platform": "epic",
-      "claimedAt": "2026-10-31T18:22:42.111Z",
+      "claimedAt": "2026-11-01T08:59:25.592Z",
       "status": "manual_required",
       "originalPrice": "$1.99",
       "url": "https://www.gamerpower.com/open/gethigh-exe-epic-games-giveaway"
@@ -508,7 +508,7 @@
       "id": "gp_3825",
       "title": "MAFIA HOTEL (Epic Games) Giveaway",
       "platform": "epic",
-      "claimedAt": "2026-10-31T18:22:42.110Z",
+      "claimedAt": "2026-11-01T08:59:25.591Z",
       "status": "manual_required",
       "originalPrice": "$1.99",
       "url": "https://www.gamerpower.com/open/mafia-hotel-epic-games-giveaway"
@@ -517,7 +517,7 @@
       "id": "epic_4e469c7d8bbf49bcabc2c07127d3d946",
       "title": "Sorry We're Closed",
       "platform": "epic",
-      "claimedAt": "2026-10-31T18:22:42.097Z",
+      "claimedAt": "2026-11-01T08:59:25.573Z",
       "status": "manual_required",
       "originalPrice": "$24.99",
       "url": "https://store.epicgames.com/p/f2dae10b3c45425ba1e91b4604262283"
@@ -535,7 +535,7 @@
       "id": "gp_3426",
       "title": "Sorry We're Closed (Epic Games) Giveaway",
       "platform": "epic",
-      "claimedAt": "2026-10-31T18:22:42.110Z",
+      "claimedAt": "2026-11-01T08:59:25.591Z",
       "status": "manual_required",
       "originalPrice": "$24.99",
       "url": "https://www.gamerpower.com/open/sorry-we-re-closed-epic-games-giveaway"
@@ -544,11 +544,29 @@
       "id": "gp_3836",
       "title": "Asleep: Act 1 (Steam) Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-10-31T18:22:42.108Z",
+      "claimedAt": "2026-11-01T08:59:25.590Z",
       "status": "failed",
       "originalPrice": "$9.99",
       "url": "https://www.gamerpower.com/open/asleep-act-1-steam-giveaway"
+    },
+    {
+      "id": "gp_3838",
+      "title": "Gladiator: Blades of Fury (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-11-01T08:59:25.587Z",
+      "status": "manual_required",
+      "originalPrice": "$9.99",
+      "url": "https://www.gamerpower.com/open/gladiator-blades-of-fury-epic-games-giveaway"
+    },
+    {
+      "id": "gp_3837",
+      "title": "Quiztopia: The Ultimate Trivia (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-11-01T08:59:25.589Z",
+      "status": "manual_required",
+      "originalPrice": "$7.99",
+      "url": "https://www.gamerpower.com/open/quiztopia-the-ultimate-trivia-epic-games-giveaway"
     }
   ],
-  "lastCheckTime": "2026-10-31T18:22:42.111Z"
+  "lastCheckTime": "2026-11-01T08:59:25.593Z"
 }
