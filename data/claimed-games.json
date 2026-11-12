@@ -58,7 +58,7 @@
       "id": "gp_3716",
       "title": "Dwarven Realms (Steam) Key Giveaway",
       "platform": "steam",
-      "claimedAt": "2026-11-12T09:36:08.923Z",
+      "claimedAt": "2026-11-12T21:22:47.317Z",
       "status": "failed",
       "originalPrice": "$9.99",
       "url": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -647,7 +647,25 @@
       "status": "manual_required",
       "originalPrice": "$9.99",
       "url": "https://www.gamerpower.com/open/gmh-good-morning-human-epic-games-giveaways"
+    },
+    {
+      "id": "epic_9975548b6d404a94b8a9bdb34cad49e9",
+      "title": "Knightica",
+      "platform": "epic",
+      "claimedAt": "2026-11-12T21:22:47.305Z",
+      "status": "manual_required",
+      "originalPrice": "$14.99",
+      "url": "https://store.epicgames.com/p/72b46f5d95624fd5b7e7d81b7dcaead1"
+    },
+    {
+      "id": "gp_3850",
+      "title": "Knightica (Epic Games) Giveaway",
+      "platform": "epic",
+      "claimedAt": "2026-11-12T21:22:47.316Z",
+      "status": "manual_required",
+      "originalPrice": "$14.99",
+      "url": "https://www.gamerpower.com/open/knightica-epic-games-giveaway"
     }
   ],
-  "lastCheckTime": "2026-11-12T09:36:08.924Z"
+  "lastCheckTime": "2026-11-12T21:22:47.317Z"
 }
